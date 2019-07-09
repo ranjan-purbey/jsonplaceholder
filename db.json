@@ -1,0 +1,182 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Agra"
+    },
+    {
+      "id": 2,
+      "name": "Allahabad"
+    },
+    {
+      "id": 3,
+      "name": "Bangalore"
+    },
+    {
+      "id": 4,
+      "name": "Chandigarh"
+    },
+    {
+      "id": 5,
+      "name": "Chennai"
+    },
+    {
+      "id": 6,
+      "name": "Coimbatore"
+    },
+    {
+      "id": 7,
+      "name": "Dehradun"
+    },
+    {
+      "id": 8,
+      "name": "Delhi"
+    },
+    {
+      "id": 9,
+      "name": "Gurgaon"
+    },
+    {
+      "id": 10,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 11,
+      "name": "Lucknow"
+    },
+    {
+      "id": 12,
+      "name": "Mangalore"
+    },
+    {
+      "id": 13,
+      "name": "Mumbai"
+    },
+    {
+      "id": 14,
+      "name": "Patna"
+    },
+    {
+      "id": 15,
+      "name": "Pune"
+    },
+    {
+      "id": 16,
+      "name": "Srinagar"
+    },
+    {
+      "id": 17,
+      "name": "Vizag"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Argentina"
+    },
+    {
+      "id": 2,
+      "name": "Australia"
+    },
+    {
+      "id": 3,
+      "name": "Austria"
+    },
+    {
+      "id": 4,
+      "name": "Belarus"
+    },
+    {
+      "id": 5,
+      "name": "Brazil"
+    },
+    {
+      "id": 6,
+      "name": "Canada"
+    },
+    {
+      "id": 7,
+      "name": "China"
+    },
+    {
+      "id": 8,
+      "name": "Denmark"
+    },
+    {
+      "id": 9,
+      "name": "Egypt"
+    },
+    {
+      "id": 10,
+      "name": "England"
+    },
+    {
+      "id": 11,
+      "name": "Finland"
+    },
+    {
+      "id": 12,
+      "name": "France"
+    },
+    {
+      "id": 13,
+      "name": "Germany"
+    },
+    {
+      "id": 14,
+      "name": "Greenland"
+    },
+    {
+      "id": 15,
+      "name": "India"
+    },
+    {
+      "id": 16,
+      "name": "Ireland"
+    },
+    {
+      "id": 17,
+      "name": "Japan"
+    },
+    {
+      "id": 18,
+      "name": "Myanmar"
+    },
+    {
+      "id": 19,
+      "name": "Netherlands"
+    },
+    {
+      "id": 20,
+      "name": "Oman"
+    },
+    {
+      "id": 21,
+      "name": "Paraguay"
+    },
+    {
+      "id": 22,
+      "name": "Poland"
+    },
+    {
+      "id": 23,
+      "name": "Qatar"
+    },
+    {
+      "id": 24,
+      "name": "Russia"
+    },
+    {
+      "id": 25,
+      "name": "Scotland"
+    },
+    {
+      "id": 26,
+      "name": "Spain"
+    },
+    {
+      "id": 27,
+      "name": "Switzerland"
+    }
+  ]
+}
